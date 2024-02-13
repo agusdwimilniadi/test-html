@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#flag {
+  width: 100%;
+  height: 100vh;
+}
+#flag .argentina {
+  height: 33vh;
+}
+#flag .argentina.bg-blue {
+  background-color: #6da3d4;
+}
